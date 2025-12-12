@@ -1,0 +1,15 @@
+{
+  "name": "mock-ad-platform-api",
+  "version": "1.0.0",
+  "description": "Mock Ad Platform API for testing the assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["mock", "api", "testing"],
+  "author": "Mixo Ads",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
